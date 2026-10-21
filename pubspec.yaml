@@ -12,6 +12,16 @@ dependencies:
   speech_to_text: ^7.0.0
   flutter_tts: ^4.2.0
 dev_dependencies:
+flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.14.4
+
+flutter_launcher_icons:
+  android: true
+  ios: false
+  image_path: "assets/icon/celyah_icon.png"
+  adaptive_icon_background: "#100B18"
+  adaptive_icon_foreground: "assets/icon/celyah_icon.png"
   flutter_test:
     sdk: flutter
 flutter:
